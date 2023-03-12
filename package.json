@@ -1,0 +1,30 @@
+{
+  "name": "emergency-wrapped-usdc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newtectonics/emergency-wrapped-usdc.git"
+  },
+  "keywords": [
+    "USDC",
+    "SVB"
+  ],
+  "author": "Neil Zumwalde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newtectonics/emergency-wrapped-usdc/issues"
+  },
+  "homepage": "https://github.com/newtectonics/emergency-wrapped-usdc#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.13.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.2"
+  }
+}
