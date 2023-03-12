@@ -1,4 +1,4 @@
-# solvency-wrapped-usdc !!Testing is not yet complete!!
+# solvency-wrapped-usdc !! Testing is not yet complete !!
 
 ### This is an experiment in trustless cooperation during a bank run. 
 
