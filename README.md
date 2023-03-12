@@ -1,6 +1,6 @@
 # solvency-wrapped-usdc !!Testing is not yet complete!!
 
-### I'm just working on this as an experiment in cooperation during a bank run. 
+### This is an experiment in trustless cooperation during a bank run. 
 
 ## How it works
 
